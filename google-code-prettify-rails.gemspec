@@ -5,6 +5,7 @@ Gem::Specification.new do |s|
   s.name        = "google-code-prettify-rails"
   s.version     = GoogleCodePrettify::Rails::VERSION
   s.platform    = Gem::Platform::RUBY
+  s.license     = 'Apache 2.0'
   s.authors     = ["Ryan Montgomery"]
   s.email       = ["rmontgomery429@gmail.com"]
   s.homepage    = "http://rubygems.org/gems/google-code-prettify-rails"
